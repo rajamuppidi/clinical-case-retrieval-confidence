@@ -1,0 +1,14 @@
+/.venv/
+/data/
+/results/
+/artifacts/
+/docs/
+__pycache__/
+*.pyc
+*.jsonl
+*.tsv
+*.csv
+*.docx
+*.pdf
+*.zip
+.DS_Store
